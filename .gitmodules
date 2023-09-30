@@ -1,0 +1,3 @@
+[submodule "arkiver"]
+	path = arkiver
+	url = git@github.com:Robo-Labs/arkiver.git

@@ -1,0 +1,20 @@
+{
+  "name": "arkiver-studio",
+  "version": "1.0.0",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "drizzle-kit": "^0.19.13"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "async-mutex": "^0.4.0",
+    "drizzle-orm": "^0.28.6",
+    "eventemitter3": "^5.0.1",
+    "pino": "^8.15.1",
+    "pino-pretty": "^10.2.0"
+  }
+}
